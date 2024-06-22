@@ -70,8 +70,6 @@ python expand.py test.jpg --resize True --height 960 --width 540 --tag my-tag
 
  `--use_gpu False`.
 
-The network operates on patches to limit memory usage when expanding high
-resolution images. The flag `--patch_size` adjusts the size.
 
  生成的HDR图像可以使用OpenCV进行色调映射.
 
