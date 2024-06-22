@@ -406,7 +406,7 @@ ExpandNet网络模型包括三个子网络：局部网络、中间网络和全�
 
 ## 个人贡献申明
 
-在本项目《Deep High Dynamic Range Imaging of Dynamic Scenes》的实施过程中，吴烨晗和唐凯各自承担了重要的任务，并在项目的不同方面发挥了关键作用。以下是两位成员的详细贡献描述。
+在本项目《Deep High Dynamic Range Imaging of Dynamic Scenes》的实施过程中的详细贡献描述。
 
 #### 吴烨晗
 
