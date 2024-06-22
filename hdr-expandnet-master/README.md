@@ -9,7 +9,7 @@
 
 ---
 
-#### 实现以下论文和代码代码演示:
+#### 实现以下论文和代码演示:
 
 **ExpandNet**: 从低动态范围内容扩展到高动态范围的深度卷积神经网络
 
@@ -17,7 +17,7 @@
 
 #### 代码演示(BILIBILI)
 
-[高动态范围成像对图片进行处理](高动态范围成像（https://www.bilibili.com/video/BV1FXgveDEEf/)
+[高动态范围成像对图片进行处理]([高动态范围成像（https://www.bilibili.com/video/BV1FXgveDEEf/](https://www.bilibili.com/video/BV1FXgveDEEf/?vd_source=8bd957030a0e2d3a9022e9391b92b84a))
 
 ---
 
