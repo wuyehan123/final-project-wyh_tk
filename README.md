@@ -1,6 +1,6 @@
 # 高动态范围成像
 
-本项目主要目标是实现论文 "Deep High Dynamic Range Imaging of Dynamic Scenes" 中的方法并且进行改进。由吴烨晗和唐凯两人共同完成。通过使用深度学习技术，我们学习在动态场景中进行高动态范围成像：
+本项目主要目标是实现论文 "Deep High Dynamic Range Imaging of Dynamic Scenes" 中的方法并且进行优化和创新。由吴烨晗和唐凯两人共同完成。通过使用深度学习技术，我们学习在动态场景中进行高动态范围成像：
 
 <center>
 <img src="assets/examples.jpg">
