@@ -13,7 +13,7 @@
 
 **ExpandNet**: 从低动态范围内容扩展到高动态范围的深度卷积神经网络
 
-[Deep High Dynamic Range Imaging of Dynamic Scenes]([https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf))
+[Deep High Dynamic Range Imaging of Dynamic Scenes](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf)
 
 #### 代码演示(BILIBILI)
 
@@ -420,7 +420,7 @@ ExpandNet网络模型包括三个子网络：局部网络、中间网络和全�
 
 ## 引用参考 References
 
-[Deep High Dynamic Range Imaging of Dynamic Scenes]([https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf))
+[Deep High Dynamic Range Imaging of Dynamic Scenes](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf)
 
 [数据集来源]([MIT-Adobe FiveK dataset](https://data.csail.mit.edu/graphics/fivek/))
 
