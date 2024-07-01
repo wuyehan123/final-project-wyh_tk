@@ -418,6 +418,8 @@ ExpandNet网络模型包括三个子网络：局部网络、中间网络和全�
 
 **实验设计**：制定了详细的实验方案，包括实验的具体步骤、所需数据集、评估指标等。确保实验具有科学性和可重复性。负责实验数据的收集和分析，使用定量和定性的方法对实验结果进行评估。包括计算峰值信噪比（PSNR）、结构相似性指数（SSIM）等指标，详细分析模型的性能表现。参与实验结果部分的报告撰写，详细描述实验的实施过程和结果分析。提供实验数据，评估展示模型的性能。
 
+分工比例：吴烨晗50%，唐凯50%
+
 ## 引用参考 References
 
 [Deep High Dynamic Range Imaging of Dynamic Scenes](https://people.engr.tamu.edu/nimak/Data/SIGGRAPH17_HDR_LoRes.pdf)
